@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+ 	<link rel ="stylesheet" href="style.css"
+</head>
+<body>
+<header>
+	<input type="button" value="Sign in">
+	<input type="button" value="About us">
+</header>
+<section>
+	<p>Completely promote compelling results after high standards in bandwidth. Enthusiastically create user-centric data for sustainable opportunities. Energistically procrastinate top-line metrics via cross-media supply chains. Collaboratively.Appropriately negotiate multifunctional opportunities for vertical methodologies. Phosfluorescently scale efficient convergence via covalent e-business. Credibly incubate inexpensive networks rather than cross functional sources. Interactively repurpose.Objectively innovate market positioning technology vis-a-vis resource maximizing ROI. Enthusiastically incentivize standards compliant core competencies and holistic niche markets. Conveniently underwhelm client-based schemas with alternative.<input type="button" value="Read more">
+	</p>
+</section>
+<footer>
+	<input type="button" value="Contacts">
+	<input type="button" value="Privacy">
+</footer>
+</body>
+</html>

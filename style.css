@@ -1,0 +1,74 @@
+/*/*/*/*/*body{
+	text-align: center;
+}}
+.round{
+	width:200px;
+	height:200px;
+	background-color:red;
+	border-radius:50%;
+	margin:20px 0 20px 0;
+}
+.square{
+	width:200px;
+	height:200px;
+	background-color:yellow;
+	margin:20px 0 20px 0;
+}
+.styled p:hover{
+	backround-color:red;
+	color:white;
+} */
+/*body{
+	background-color: #ecd6c7;
+}
+header{
+	text-align: right;
+	background-color:#FCE38A;
+
+}
+header input{
+	background-color:#1794A5;
+	color:#FCE38A; 
+}
+footer{
+	text-align: left;
+	background-color:#FCE38A;
+}
+footer input{
+	background-color:#1794A5;
+	color:#FCE38A;
+}
+section{
+	border:2px solid grey;
+	margin:10px 0 10px 0;
+	background-color:#E6E6E6;
+	color:#032030;
+}
+section input{
+	background-color:#F71E35;
+ 	color:#FCE38A;
+ 	margin:0px 0 5px 0;
+}
+*/
+body{
+	background-color:#CCCC99;
+	background-image:url("https://upload.wikimedia.org/wikipedia/commons/d/d7/BlankMap-World-noborders2.svg"); 
+	background-position:top;
+}
+h1{
+	letter-spacing:4px;
+	text-align:center;
+	font-weight: lighter;
+	font-family:serif; 
+	color:#475F77;
+}
+h2{
+	letter-spacing:2px;
+	text-align:center;
+	font-weight:normal;
+	font-family:sans-serif; 
+	color:#475F77;
+}
+ul{
+	color:#475F77;
+}

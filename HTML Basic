@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel ="stylesheet" href="style.css"
+</head>
+<body>
+	<div class="styled"> 
+		<p>Hello people</p>
+		<p>Hello people2</p>
+		<p>Hello people3</p>
+	</div>
+<!-- <div class="round" id="qwerty"></div> -->
+</body>
+</html>
